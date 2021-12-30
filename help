@@ -1,0 +1,6 @@
+`Sudo command list:`
+`1. $sudo heck [true | false] @user`
+`2. $sudo heck-lite [true | false] @user`
+`3. $sudo make [meteor]`
+`4. $sudo rickroll [true | false] @user`
+`5. $sudo dm [message] @user`
